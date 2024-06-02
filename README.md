@@ -8,11 +8,11 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ShauryaFx/ShauryaFx/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <br clear="both">
